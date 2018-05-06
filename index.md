@@ -1,33 +1,9 @@
-# This is the main title of the page - yeah
 
-# REALLY SUPER EASY
+### What is #Africarising? 
 
-Here are bullet points:
-- bullet1
-- bullet2
-- bullet3
+![Alt Text](https://www.economist.com/sites/default/files/20111203_LDP002.jpg)
 
-## Multimedia Content:
+**Africa Rising** is a narrative that emphasizes the rapid growth in Africa as a sign of the continent’s economic transformation. Economists have argued that foreign direct investment is a key factor in this rapid growth. A Foreign Policy Survey of 62 experts on African economists cited FDI as the second most important factor in Africa’s growth. In 2015, Africa was the world’s fastest-growing region for FDI. Scholars like Ian Taylor have argued that this growth driven by FDI is finite and that the **“story of Africa rising is just that: a story.”**
 
-
-###  videos
-
-Embedding Youtube content:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZwNb11n9zk" frameborder="0" allowfullscreen></iframe>
-
-### texts
-
-Adding a pdf:
-
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
-
-Highlight an excerpt as a block:
-```
-Le vent d'hiver souffle, et la nuit est sombre, 
-Des gémissements sortent des tilleuls ; 
-```
-create a citation withing the text:
-
-> Les squelettes blancs vont à travers l'ombre
-
+![Alt Text](https://4.bp.blogspot.com/-eR8bliH53Tw/Wu7Z9IiJmTI/AAAAAAAAANA/f-v3V_mI3hcWg6nhmrK-XN-C_sxz8X1eACLcBGAs/s1600/Global%2BNarrative_DG.JPG)
+Despite the vigorous debate over whether Africa is really rising, no one has truly analyzed Africa Rising as a linguistic phenomenon. To compensate for this dearth of analysis, we have tried to analyze two aspects of the narrative’s development. One, is the Africa Rising narrative a decentralized narrative or one pushed by governments, multinational corporations, and think tank elites? To answer this question, we compared tweets with #AfricaRising, as an example of the narrative in decentralized social media, with a set of highly respected, authoritative newspapers from around the world, an example of the narrative in a more tightly-controlled space. Second, is Africa Rising a truly global narrative? More specifically, do African countries, countries with substantial FDI in Africa, and countries with little FDI in Africa speak about the continent’s current events and economic growth in the same way? To do that, we built a geographically diverse corpus of 65,000 newspaper articles mentioning Ghana and Kenya.
