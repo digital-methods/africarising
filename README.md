@@ -1,1 +1,1 @@
-# genderpaygap
+# Africa Rising Website
