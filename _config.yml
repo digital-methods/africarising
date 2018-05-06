@@ -1,9 +1,11 @@
 theme: jekyll-theme-dinky
-title: Africa Rising is here
+title: Africa Rising 
 description: A rapid description of the website content
 menu: [
 {'name': 'Home', 'pagename': 'index'},
-{'name': 'sharks here !', 'pagename': 'page1'},
-{'name': 'Go there', 'pagename': 'page2'},
-{'name': 'Yet Another page', 'pagename': 'page3'},
+{'name': 'What is #africarising?', 'pagename': 'Introduction'},
+{'name': 'Data colelction', 'pagename': 'Methodology'},
+{'name': 'Global Analysis', 'pagename': 'tweets'},
+{'name': 'Regional Analysis', 'pagename': 'FDI'},
+{'name': 'Conclusion', 'pagename': 'Conclusion'},
 ]
