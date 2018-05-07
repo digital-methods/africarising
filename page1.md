@@ -7,7 +7,9 @@ We chose to focus on **Ghana and Kenya** to develop these corpora for several re
 * they are English-speaking countries and Cortext works best with English-language sources
 * they are closely linked with the Africa rising narrative
 * Kenya and Ghana are two are of the large FDI recipients in Africa
+
 Picking two countries allowed us to balance collecting a feasible number of articles and producing generalizable results. 
+
 We decided to **exclude Nigeria**. Due to its size and the number of articles on it, Nigeria would have dominated the corpora and we wanted to compare two comparable countries.
 
 When we selected our newspapers, we aimed to pick a **geographically diverse group of major newspapers with large readerships**. We also wanted to ensure our list included African sources, newspapers from major FDI source countries, and newspapers from non-major FDI source countries. 
