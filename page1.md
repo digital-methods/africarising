@@ -16,14 +16,16 @@ When we selected our newspapers, we aimed to pick a geographically diverse group
 >The Ghanaian Times
 >The Daily Nation (Kenya)
 >The Mail and Guardian (South Africa)
-Major FDI source countries
-New York Times
-Wall Street Journal
-The Guardian
+
+**Major FDI source countries:**
+>New York Times
+>Wall Street Journal
+>The Guardian
 Xinhua 
 Times of India
 The Australian Times
-Non-major FDI source countries:
+
+**Non-major FDI source countries:**
 Agence France-Presse
 Deutsche Welle
 The New Zealand Herald
