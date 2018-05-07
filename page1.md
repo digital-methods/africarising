@@ -2,13 +2,13 @@
 
 ![GitHub Logo](/images/logo.png)
 
-To understand the Africa Rising narrative in different parts of the world and see the differences between print and social media, we developed two separate corpora. One corpus included all of the tweets including #AfricaRising from January 1, 2011 to April 13, 2018. The Twitter corpus was developed using **Pytheas**. With Twitter, we knew that couldn’t go all the way back to the start of the Africarising narrative but we wanted to get a clear picture of what Africarising means in the digital space. After build the corpus, we extracted the top 100 hashtags in the tweets. We then used network mapping in Cortext to produce a network map of the tweets and demographic analysis to chart its evolution over time. 
+To understand the AfricaRising narrative in different parts of the world and see the differences between print and social media, we developed two separate corpora. One corpus included all of the tweets including #AfricaRising from January 1, 2011 to April 13, 2018. The Twitter corpus was developed using **Pytheas**. With Twitter, we knew that couldn’t go all the way back to the start of the AfricaRising narrative but we wanted to get a clear picture of what AfricaRising means in the digital space. After build the corpus, we extracted the top 100 hashtags in the tweets. We then used network mapping in Cortext to produce a network map of the tweets and demographic analysis to chart its evolution over time. 
 
-We developed the corpus of newspaper articles mentioning Ghana and Kenya using **Factiva**. As we did not trust online translation tools, we focused on English-language newspapers or already translated papers. Also, given the irrelevance of sports to the Africarising narrative, we decided to exclude articles on sports from our Factiva searches. We downloaded articles from either 1998 to the start of this year or from when Factiva began subscribing to the newspaper until the start of this year. While this does not give us a consistent time frame for the articles, our analysis is more focused on the holistic narrative and regional differences, so we accepted this tradeoff. 
+We developed the corpus of newspaper articles mentioning Ghana and Kenya using **Factiva**. As we did not trust online translation tools, we focused on English-language newspapers or already translated papers. Also, given the irrelevance of sports to the AfricaRising narrative, we decided to exclude articles on sports from our Factiva searches. We downloaded articles from either 1998 to the start of this year or from when Factiva began subscribing to the newspaper until the start of this year. While this does not give us a consistent time frame for the articles, our analysis is more focused on the holistic narrative and regional differences, so we accepted this tradeoff. 
 
 We chose to focus on **Ghana and Kenya** to develop these corpora for several reasons:
 * they are English-speaking countries and Cortext works best with English-language sources
-* they are closely linked with the Africa rising narrative
+* they are closely linked with the AfricaRising narrative
 * Kenya and Ghana are two are of the large FDI recipients in Africa
 
 Picking two countries allowed us to balance collecting a feasible number of articles and producing generalizable results. 
