@@ -13,9 +13,9 @@ We decided to exclude Nigeria. Due to its size and the number of articles on it,
 When we selected our newspapers, we aimed to pick a geographically diverse group of major newspapers with large readerships. We also wanted to ensure our list included African sources, newspapers from major FDI source countries, and newspapers from non-major FDI source countries. 
 
 **African sources:**
->The Ghanaian Times
->The Daily Nation (Kenya)
->The Mail and Guardian (South Africa)
+*The Ghanaian Times
+*The Daily Nation (Kenya)
+*The Mail and Guardian (South Africa)
 
 **Major FDI source countries:**
 >New York Times
