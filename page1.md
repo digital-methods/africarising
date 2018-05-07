@@ -1,6 +1,6 @@
 ## Data Collection
 
-![GitHub Logo](africa rising image 1.png)
+![Africa rising image 1](Africa rising image 1.png)
 
 To understand the AfricaRising narrative in different parts of the world and see the differences between print and social media, we developed two separate corpora. One corpus included all of the tweets including #AfricaRising from January 1, 2011 to April 13, 2018. The Twitter corpus was developed using **Pytheas**. With Twitter, we knew that couldn’t go all the way back to the start of the AfricaRising narrative but we wanted to get a clear picture of what AfricaRising means in the digital space. After build the corpus, we extracted the top 100 hashtags in the tweets. We then used network mapping in Cortext to produce a network map of the tweets and demographic analysis to chart its evolution over time. 
 
