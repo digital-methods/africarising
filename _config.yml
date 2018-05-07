@@ -3,5 +3,8 @@ title: Africa Rising
 description: 
 menu: [
 {'name': 'Introduction', 'pagename': 'index'},
-{'name': 'Data collection', 'pagename': 'page1'},
+{'name': 'Data Collection', 'pagename': 'page1'},
+{'name': 'Global Analysis', 'pagename': 'page2'},
+{'name': 'Twitter Network Mapping', 'pagename': 'page3'},
+{'name': 'Regional Analysis', 'pagename': 'page4'},
 ]
