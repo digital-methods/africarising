@@ -3,5 +3,5 @@ title: Africa Rising
 description: 
 menu: [
 {'name': 'Introduction', 'pagename': 'index'},
-{'name': 'Data collection', 'pagename': 'data collection'},
+{'name': 'Data collection', 'pagename': 'page1'},
 ]
