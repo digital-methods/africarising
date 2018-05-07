@@ -1,9 +1,7 @@
 theme: jekyll-theme-dinky
-title: Africa Rising is here
-description: A rapid description of the website content
+title: Africa Rising 
+description: 
 menu: [
-{'name': 'Home', 'pagename': 'index'},
-{'name': 'sharks here !', 'pagename': 'page1'},
-{'name': 'Go there', 'pagename': 'page2'},
-{'name': 'Yet Another page', 'pagename': 'page3'},
+{'name': 'Introduction', 'pagename': 'index'},
+{'name': 'Data collection', 'pagename': 'data collection'},
 ]
