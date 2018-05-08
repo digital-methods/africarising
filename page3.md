@@ -1,6 +1,6 @@
 # Regional Analysis
 
-CHINA VS INDIA TEXT - topic model
+CHINA VS INDIA - Topic Model
 
 ![Africa rising image 1](/africa-rising/assets/images/Pic10.png)
 
@@ -8,7 +8,7 @@ Given the outsized role of the US, China, and India in Africa, we would like to 
 
 India, on the other hand, has maintained what seems a strictly business outlook on Ghana and Kenya. This is indicated by the fact that business and information and communications technology (ICT) is the most dominant topic, followed by agriculture and trade, investment analyses, culture, and development. 
 
-NORTH AMERICA TEXT - topic model
+NORTH AMERICA - Topic Model
 
 ![Africa rising image 1](/africa-rising/assets/images/Pic11.png)
 
