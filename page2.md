@@ -10,7 +10,7 @@ Two limitations in the global topic model constrain our ability to reach general
 **Twitter Network Mapping and Demography:**
 
  
-![alt text](TwitterGlobalNarrative.jpg)
+![GlobalTwitterNarrative](GlobalTwitterNarrative.jpg)
  
  With Twitter, the network map of the hashtags used in combination with #AfricaRising shows three things. One, it demonstrates that business and development is the backbone of the narrative. Two, it identifies the key countries associated with the narrative. We see, in particular, Kenya, Ghana, and Nigeria. This positioning underscores the logic behind selecting Kenya and Ghana for our Factiva analysis. Three, this network map also explains why we need the Factiva analysis. Here, we have a general overview of the terms used online; however, it is pretty superficial. 
 
