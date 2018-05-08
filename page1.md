@@ -8,10 +8,8 @@ We chose to focus on **Ghana and Kenya** to develop these corpora for several re
 * they are English-speaking countries and Cortext works best with English-language sources
 * they are closely linked with the AfricaRising narrative
 * Kenya and Ghana are two are of the large FDI recipients in Africa
-
-Picking two countries allowed us to balance collecting a feasible number of articles and producing generalizable results. 
-
-We decided to **exclude Nigeria**. Due to its size and the number of articles on it, Nigeria would have dominated the corpora and we wanted to compare two comparable countries.
+* Picking two countries allowed us to balance collecting a feasible number of articles and producing generalizable results. 
+* We decided to **exclude Nigeria**. Due to its size and the number of articles on it, Nigeria would have dominated the corpora and we wanted to compare two comparable countries.
 
 ![Africa rising image 1]({{ site.url }}/africa-rising/assets/images/1.png)
 
