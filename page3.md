@@ -1,10 +1,10 @@
 # Semantic Network Analysis and Contingency Matrix
 
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/2612bdaab2217b77a95d829dc3b77a3c" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/017382b4c25ac1b09921edbbf71e4111" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 With our Factiva data, we created a semantic network map and a contingency matrix to see which newspapers discuss which industries. We used both tools, because the semantic network revealed some trends not present on the contingency matrix and vice versa. We then compared our findings to the existing statistics and literature on FDI in Ghana and Kenya. These statistics were gathered from academic research and annual reports from sources such as IMF, the World Bank, and UNCTAD. From these sources, we found that countries like the UK, France, and South Africa provide the most FDI to Ghana and Kenya.
 
-<iframe src="https://documents.cortext.net/b4de/b4def6c1f893ad7ad33da628af9cc08d/74377/contingency_matrix-final-africarising-extended-version-logFalse-SourceName-Industry-y-107_244-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+<iframe src="https://documents.cortext.net/b4de/b4def6c1f893ad7ad33da628af9cc08d/74377/contingency_matrix-final-africarising-extended-version-logFalse-SourceName-Industry-y-107_244-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 --> picture of the two compared  PICTURE 1 
 
