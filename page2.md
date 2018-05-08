@@ -14,9 +14,11 @@ illustration
  
  With Twitter, the network map of the hashtags used in combination with #AfricaRising shows three things. One, it demonstrates that business and development is the backbone of the narrative. Two, it identifies the key countries associated with the narrative. We see, in particular, Kenya, Ghana, and Nigeria. This positioning underscores the logic behind selecting Kenya and Ghana for our Factiva analysis. Three, this network map also explains why we need the Factiva analysis. Here, we have a general overview of the terms used online; however, it is pretty superficial. 
 
+<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/2612bdaab2217b77a95d829dc3b77a3c" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
 Demography adds some additional context. The use of #AfricaRising jumped precipitously in weeks 120 (end of April 2013), 177 (early June 2014), 181 (early July 2014), and 343 (late July 2017). The World Bank’s April 2014 titled “Africa Rising” and press release on “Africa’s Strong Growth” likely triggered some of the online discussion of Africa Rising in late spring and summer 2014, the period when the hashtag was most frequently used. This overlap indicates that reports by major institutions can drive online conversation.
 
- 
+ <iframe src="https://documents.cortext.net/4711/4711e5643b882a40df66e1e04b70151a/75574/temporal%20evolution/basic_statistics_ISItermsTE_Hashtag_100ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
  
 
-<iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/2612bdaab2217b77a95d829dc3b77a3c" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
