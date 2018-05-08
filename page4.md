@@ -32,14 +32,3 @@ Looking at Kenya, it is clear who is investing in Kenya but it is far less clear
 When we look at the semantic network map, the Times of India is tagged next to a pharmaceutical cluster. The Australian is tagged next to a mining cluster. Xinhua, as previously mentioned, is tagged next to the transportation cluster. Therefore, we have a couple examples of the discourse in newspapers correlating with investments. The lack of precise FDI data by country and industry prevents a more comprehensive analysis.
 
 
-
-Also possible to embed iframes from Google sheet for instance (see this [page](https://www.datavizforall.org/embed/iframe-github/) for a full guide)
-
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIfbypmECTCJl92Y_6YJh1CLUfdiUIEWtrbK7jLt1uQoy8t1W5JZz-NjP8nciUS2ByLUjJpxcsmDKN/pubchart?oid=1939677787&amp;format=interactive"></iframe>
-
-
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIfbypmECTCJl92Y_6YJh1CLUfdiUIEWtrbK7jLt1uQoy8t1W5JZz-NjP8nciUS2ByLUjJpxcsmDKN/pubchart?oid=1939677787&amp;format=interactive"></iframe>
-
-We should also note a another limitation in this analysis. Due to technical issues with Cortext at the time of analysis, we could not separate articles on Ghana from those on Kenya. So, we were forced to compare country-level FDI data with a semantic network and contingency matrix for both countries. With these results and limitations, we can see a clear connection between a country’s industry-level investments in Ghana and Kenya and the narrative around Ghana and Kenya in a newspaper from the source country. We, however, cannot fully quantify this relationship and must acknowledge that the connection is far from uniform.
