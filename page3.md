@@ -6,7 +6,7 @@ With our Factiva data, we created a semantic network map and a contingency matri
 
 <iframe src="https://documents.cortext.net/b4de/b4def6c1f893ad7ad33da628af9cc08d/74377/contingency_matrix-final-africarising-extended-version-logFalse-SourceName-Industry-y-107_244-reordered-nFchi2.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
---> picture of the two compared  PICTURE 1 
+![Africa rising image 1](/africa-rising/assets/images/Pic1.png)
 
 ---> PICTURE 2 
 
