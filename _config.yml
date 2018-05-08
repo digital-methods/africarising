@@ -5,7 +5,7 @@ menu: [
 {'name': 'Introduction', 'pagename': 'index'},
 {'name': 'Data Collection', 'pagename': 'page1'},
 {'name': 'Global Analysis', 'pagename': 'page2'},
-{'name': 'Twitter Network Mapping', 'pagename': 'page3'},
-{'name': 'Regional Analysis', 'pagename': 'page4'},
+{'name': 'Regional Analysis', 'pagename': 'page3'},
+{'name': 'Semantic Network Analysis and Contingency Matrix', 'pagename': 'page4'},
 {'name': 'Conclusion', 'pagename': 'page5'},
 ]
