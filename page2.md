@@ -17,7 +17,6 @@ illustration
 Demography adds some additional context. The use of #AfricaRising jumped precipitously in weeks 120 (end of April 2013), 177 (early June 2014), 181 (early July 2014), and 343 (late July 2017). The World Bank’s April 2014 titled “Africa Rising” and press release on “Africa’s Strong Growth” likely triggered some of the online discussion of Africa Rising in late spring and summer 2014, the period when the hashtag was most frequently used. This overlap indicates that reports by major institutions can drive online conversation.
 
  
- ![network map]({{ site.url }}/demo_website/assets/images/Capture.png)  
  
 
 <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/2612bdaab2217b77a95d829dc3b77a3c" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
