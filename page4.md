@@ -1,4 +1,4 @@
-Semantic Network Analysis and Contingency Matrix (Page4)
+Semantic Network Analysis and Contingency Matrix 
 here we need to add the factiva network mapping + contingency matrix
  
 With our Factiva data, we created a semantic network map and a contingency matrix to see which newspapers discuss which industries. We used both tools because the semantic network revealed some trends not present on the contingency matrix and vice versa. We then compared our findings to the existing statistics and literature on FDI in Ghana and Kenya. These statistics were gathered from academic research and annual reports from sources such as IMF, the World Bank, and UNCTAD. From these sources, we found that countries like the UK, France, and South Africa provide the most FDI to Ghana and Kenya.
