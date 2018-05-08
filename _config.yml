@@ -7,4 +7,5 @@ menu: [
 {'name': 'Global Analysis', 'pagename': 'page2'},
 {'name': 'Twitter Network Mapping', 'pagename': 'page3'},
 {'name': 'Regional Analysis', 'pagename': 'page4'},
+{'name': 'Conclusion', 'pagename': 'page5'},
 ]
