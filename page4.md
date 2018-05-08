@@ -18,7 +18,7 @@ Picture 2 :
 
 Ghana’s FDI figures, as seen in the chart above, often overlap with the network map. India is one of the largest sources of FDI for agriculture, and the Times of India is tagged next to the neon green agricultural cluster on the network map (bottom of the map). India is also a major investor in transport, storage, and communications. The Times of India then appears next to the communications cluster. China is also the largest investor in transport, storage, and communications. Xinhua News Agency is then tagged next to the purple transportation cluster. There, however, are some counterexamples to this trend. For example, the UK invests a substantial amount in construction but The Guardian is not tagged next to the construction cluster.
 
-PICTURE 3
+![Alt Text](
 
 When we break down FDI into investments by particular companies and compare that FDI with the contingency matrix, we see an occasional link between FDI and the narrative in a given country’s newspaper. For the UK, we see red squares for media, business/consumer services, and food/beverages/tobacco. The number of observed co-occurrences in the Guardian for food/beverages/tobacco appear to be 500% greater than the expected number of co-occurrences in the Guardian. On the contrary, we see blue squares, indicating no correlation, for banking and financial services. Without FDI data on media, we cannot make a comparison for that industry. 
 
