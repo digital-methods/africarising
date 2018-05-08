@@ -6,6 +6,6 @@ menu: [
 {'name': 'Data Collection', 'pagename': 'page1'},
 {'name': 'Global Analysis', 'pagename': 'page2'},
 {'name': 'Regional Analysis', 'pagename': 'page3'},
-{'name': 'Semantic Network Analysis and Contingency Matrix', 'pagename': 'page4'},
+{'name': 'Network and Contingency', 'pagename': 'page4'},
 {'name': 'Conclusion', 'pagename': 'page5'},
 ]
