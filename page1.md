@@ -11,7 +11,7 @@ We chose to focus on **Ghana and Kenya** to develop these corpora for several re
 * Picking two countries allowed us to balance collecting a feasible number of articles and producing generalizable results. 
 * We decided to **exclude Nigeria**. Due to its size and the number of articles on it, Nigeria would have dominated the corpora and we wanted to compare two comparable countries.
 
-![Africa rising image 1]({{ site.url }}/africa-rising/assets/images/1.png)
+![Africa rising image 1](/africa-rising/assets/images/1.png)
 
 When we selected our newspapers, we aimed to pick a **geographically diverse group of major newspapers with large readerships**. We also wanted to ensure our list included African sources, newspapers from major FDI source countries, and newspapers from non-major FDI source countries. 
 
